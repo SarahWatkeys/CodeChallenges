@@ -49,5 +49,6 @@ h1 {
   position: fixed;
   bottom: 1px;
   font-size: 0.2rem;
-
+  width: 100%;
+  text-align: center;
 }
